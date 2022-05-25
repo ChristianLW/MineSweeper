@@ -1,0 +1,4 @@
+If a mine is the last revealed cell, then the player still wins
+Having to guess is a possibility
+When the player dies, the covered mines aren't revealed
+When the player dies, the wrongly placed flags aren't "announced"
